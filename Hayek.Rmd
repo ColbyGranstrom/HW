@@ -1,0 +1,22 @@
+---
+title: "Hayek"
+output: word_document
+---
+
+\begin{center} The Use of Knowledge in Society
+Colby Granstrom
+Fin 5350
+Hayek\end{center}
+
+
+Who decides what will be produced, if the product can be sustainably produced, and how much the product will sell for? If one were to listen to the media or sit in on any liberal arts lecture, the government (centrally planned system) is the only fair way to do this. The proponents of this system might also say that the current system is rigged for the greedy corporations exploiting niches in the market to steal profits. I however tend to agree with Hayek on this topic. It is ridiculous to think that one person with the master-key might move faster or allocate resources more efficiently than the market as a whole.
+
+A decision of one free individual to either purchase or to produce a product is more simple than the choice of what person should make all market decisions for you. In Hayek’s paper titled The Use of Knowledge in Society, he explains this fault in central planning, “It may be admitted that, as far as scientific knowledge is concerned, a body of suitably chosen experts may be in the best position to command all the best knowledge available—though this is of course merely shifting the difficulty to the problem of selecting the experts. What I wish to point out is that, even assuming that this problem can be readily solved, it is only a small part of the wider problem” (AER 8). After all, how can we expect irrational people to pick a worthy market-maker if they cannot choose which pair of shoes to buy?
+
+As Hayek puts it, the knowledge that no equation or any one person holds is in, “bits of incomplete and frequently contradictory knowledge which all the separate individual possess” (AER 3). Competition motivates the fastest and most efficient movement of resources in the market because by nature it is decentralized. 
+The shipper who earns his living from using otherwise empty or half-filled journeys of tramp-steamers, or the estate agent whose whole knowledge is almost exclusively one of temporary opportunities, or the arbitrageur who gains from local differences of commodity prices, are all performing eminently useful functions based on special knowledge of circumstances of the fleeting moment not known to others (AER 9)
+While there is opportunity to understand a specific area and profit from it, monopolies are not protected and there is nothing stopping the next entrepreneur from taking a risk and seeking a more efficient way of handling resources.
+
+The beauty of a competitive system allows for the best pricing, production, and consumption of resources. To think we can perfect this through a select few individuals with the keys to our market is delusional and I hope we continue to protect the millions of honest arbitrageurs, because they continue to drive our economy and allocate resources in the best way.
+
+

@@ -1,0 +1,10 @@
+---
+title: "Samulson"
+output: word_document
+---
+
+Samulson makes an interesting point about the price of an asset. Much of his argument relies on the ideas Hayek explained to us about how information in the market functions. Small bits of information scattered about the economy allow for effeceint markets, but also help support the idea of a random walk. This idea states that prices in the past will not affect the future and that information that can be forseen should be built into the price already. Therefore there are no profits available for investors seeking to beat the market supply and demand.
+
+Because supply and demand act to converge on a specific equalibrium and these forces are driven by independent factors, prices cannot be predicted into the future. As more periods are added, we know the distribution of prices becomes even harder to predict. This widening shows that the random walk of prices only get more random as time goes on and that information in the marketplace is impossible to predict becasue it truly is random.
+
+
